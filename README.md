@@ -58,5 +58,5 @@ The production server starts on port `3000` by default.
 
 ## Routing Notes
 
-- Locale routing and default-locale redirects are handled centrally in [proxy.ts](proxy.ts).
+- Locale routing and default-locale redirects are handled centrally in [src/proxy.ts](src/proxy.ts).
 - Next.js 16 deprecates `middleware.ts` in favor of `proxy.ts`.
