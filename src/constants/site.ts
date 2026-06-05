@@ -1,3 +1,7 @@
+import type { Dictionary } from "@/types/i18n";
+
+type FooterSocialKey = keyof Dictionary["footer"]["socials"];
+
 export const SITE_CONFIG = {
   name: process.env.NEXT_PUBLIC_SITE_NAME ?? "Saffron Table",
   phone: process.env.NEXT_PUBLIC_PHONE ?? "+1 (555) 014-2786",
@@ -20,7 +24,7 @@ export const SITE_CONFIG = {
       key: "maps",
       href: process.env.NEXT_PUBLIC_MAPS_URL ?? "https://maps.google.com/",
     },
-  ],
+  ] as ReadonlyArray<{ key: FooterSocialKey; href: string }>,
 };
 
 export const OPENING_HOURS = [

@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Saffron Table Website
 
-## Getting Started
+Marketing and reservation frontend for Saffron Table, built with Next.js 16 (App Router), TypeScript, and Tailwind CSS.
 
-First, run the development server:
+## Requirements
+
+- Node.js 20+
+- npm 10+
+
+## Local Development
 
 ```bash
+npm install
+cp .env.example .env
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+App runs at http://localhost:3000.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Environment Variables
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Set values in `.env` (see `.env.example`):
 
-## Learn More
+- `NEXT_PUBLIC_SITE_URL`
+- `NEXT_PUBLIC_SITE_NAME`
+- `NEXT_PUBLIC_PHONE`
+- `NEXT_PUBLIC_PHONE_HREF`
+- `NEXT_PUBLIC_EMAIL`
+- `NEXT_PUBLIC_EMAIL_HREF`
+- `NEXT_PUBLIC_ADDRESS_LINE_ONE`
+- `NEXT_PUBLIC_ADDRESS_LINE_TWO`
+- `NEXT_PUBLIC_CITY`
+- `NEXT_PUBLIC_INSTAGRAM_URL`
+- `NEXT_PUBLIC_MAPS_URL`
 
-To learn more about Next.js, take a look at the following resources:
+## Production Checks
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Run these before every deployment:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```bash
+npm run lint
+npm run build
+```
 
-## Deploy on Vercel
+Both commands must pass in CI.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Deploy (Node.js Server)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This app is ready for standard Next.js Node.js deployment.
+
+```bash
+npm ci
+npm run build
+npm run start
+```
+
+The production server starts on port `3000` by default.
+
+## Routing Notes
+
+- Locale routing and default-locale redirects are handled centrally in [proxy.ts](proxy.ts).
+- Next.js 16 deprecates `middleware.ts` in favor of `proxy.ts`.
