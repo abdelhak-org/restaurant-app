@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "title": "Saffron Table",
+    "description": "Reservieren Sie im Saffron Table, einem modernen Fine-Dining-Restaurant mit Feuerküche, mediterraner Frische und elegantem Abendambiente."
+  },
+  "navigation": {
+    "menuToggle": "Menü öffnen",
+    "mobileEyebrow": "Abend planen",
+    "themeToggle": "Helles und dunkles Design umschalten",
+    "bookTable": "Tisch reservieren",
+    "items": {
+      "home": "Start",
+      "menu": "Menü",
+      "story": "Konzept",
+      "gallery": "Galerie",
+      "testimonials": "Stimmen",
+      "reservation": "Reservierung"
+    }
+  },
+  "hero": {
+    "eyebrow": "Modernes Dinner-Erlebnis im Herzen der Stadt",
+    "title": "Licht, Feuer, präzise Teller und ein Gastraum, der aus einem Abend einen Anlass macht.",
+    "description": "Saffron Table verbindet offene Flamme, mediterrane Frische und souveräne Gastlichkeit zu einem Restaurantbesuch, der vom ersten Eindruck bis zum Dessert getragen wirkt.",
+    "primaryCta": "Für heute reservieren",
+    "secondaryCta": "Menühighlights ansehen",
+    "badge": "Chef's Counter",
+    "imageAlt": "Signaturgericht im Saffron Table",
+    "highlights": [
+      {
+        "value": "12 Plätze",
+        "label": "am Counter für Gäste, die Küche, Timing und Atmosphäre ganz nah erleben möchten"
+      },
+      {
+        "value": "ab 17:30",
+        "label": "geöffnet von Dienstag bis Sonntag für einen stilvollen Abendservice"
+      },
+      {
+        "value": "Private Dining",
+        "label": "für Geburtstage, Business Dinner und kleine Gesellschaften mit Anspruch"
+      }
+    ],
+    "bookingCard": {
+      "eyebrow": "Reservierungen empfohlen",
+      "title": "Die besten Zeiten sind schnell vergeben.",
+      "description": "Unter der Woche bleibt der Rhythmus entspannt, am Freitag und Samstag sind die gefragtesten Zeiten früh ausgebucht, besonders am Counter.",
+      "hoursLabel": "Beliebte Reservierungszeit",
+      "hoursValue": "19:00 bis 20:30 Uhr",
+      "contactLabel": "Für kurzfristige Anfragen"
+    }
+  },
+  "menu": {
+    "eyebrow": "Aktuelle Highlights",
+    "title": "Ein Menü mit Tiefe, Leichtigkeit und genau der richtigen Portion Luxus.",
+    "description": "Die Karte verändert sich mit Saison und Markt, bleibt aber in ihrer Handschrift klar: Feuer, Säure, Kräuter, Textur und ein eleganter Spannungsbogen über den ganzen Abend.",
+    "categories": ["Zum Teilen", "Hauptgänge", "Dessert"],
+    "items": [
+      {
+        "name": "Seebarsch vom Grillfeuer",
+        "description": "Fenchel vom Rost, Butter mit Salzzitrone, Kräuterasche und ein feiner Safran-Zitrus-Glanz.",
+        "price": "$34"
+      },
+      {
+        "name": "Lamm für zwei",
+        "description": "Langsam gegarte Schulter mit geräucherter Aubergine, Fladenbrot vom Grill und Granatapfel-Jus.",
+        "price": "$58"
+      },
+      {
+        "name": "Risotto mit schwarzem Knoblauch",
+        "description": "Carnaroli-Reis, geröstete Shiitake, gereifter Pecorino und Olivenblattöl.",
+        "price": "$29"
+      },
+      {
+        "name": "Safran-Zitrus-Tarte",
+        "description": "Seidige Creme, glasierter Blütenhonig, Pistazien-Crunch und kandierte Orange.",
+        "price": "$16"
+      }
+    ],
+    "sideNotes": [
+      {
+        "eyebrow": "Weinbegleitung",
+        "title": "Charakterstarke Flaschen mit Frische und Spannung.",
+        "description": "Die Auswahl konzentriert sich auf mediterrane und alpine Regionen, mit mineralischen Weißweinen, feinen Rotweinen und einer kleinen Begleitung, die Gewürz, Rauch und Säure des Menüs aufnimmt."
+      },
+      {
+        "eyebrow": "Gastlichkeit",
+        "title": "Präziser Service mit ruhigem Taktgefühl.",
+        "description": "Der Ablauf bleibt aufmerksam und unaufgeregt. Perfekt für Verabredungen, besondere Abende und Einladungen, bei denen jedes Detail sitzen soll."
+      }
+    ]
+  },
+  "story": {
+    "eyebrow": "Das Konzept",
+    "title": "Saffron Table ist elegant, lebendig und bewusst fern jeder steifen Fine-Dining-Geste.",
+    "paragraphs": [
+      "Warmes Steinmaterial, gedämpftes Licht, Messingdetails und eine offene Küche sorgen für Energie im Raum, ohne Lautstärke zu erzeugen. Das Erlebnis soll nahbar wirken, nicht inszeniert.",
+      "Kulinarisch bewegt sich das Haus zwischen Mittelmeer, Stadtabend und moderner Feuerküche: klare Aromen, gute Säure, feine Würze und eine Gastfreundschaft, die nicht laut werden muss, um in Erinnerung zu bleiben."
+    ],
+    "features": [
+      {
+        "title": "Counter Seating",
+        "description": "Der direkteste Blick in die Küche für Gäste, die den Abend möglichst intensiv erleben möchten."
+      },
+      {
+        "title": "Private Dining",
+        "description": "Ein separater Rahmen für Jubiläen, diskrete Geschäftsdinner und kleine Runden mit besonderem Anspruch."
+      },
+      {
+        "title": "Saisonale Küche",
+        "description": "Produkte kleiner Betriebe, wechselnde Marktgemüse und eine Karte, die sich am tatsächlichen Angebot orientiert."
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Stimmung",
+    "title": "Ein Abend zwischen präziser Küche, warmer Architektur und einem Dessert, das man nicht überspringt.",
+    "description": "Der Eindruck entsteht aus vielen Details zugleich: Licht, Materialität, Tellerbild, Servicefluss und dem Moment, in dem der Abend spürbar in seine schönste Phase kippt.",
+    "items": {
+      "plating": "Detailreich angerichteter Teller in warmen mediterranen Farben",
+      "interior": "Gastraum des Saffron Table mit warmem Lichtkonzept",
+      "dessert": "Dessertgang im Saffron Table"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Gästestimmen",
+    "title": "Abende, über die man am nächsten Morgen noch spricht.",
+    "items": [
+      {
+        "quote": "Der Service war präzise, aber nie distanziert. Trotz lebendiger Atmosphäre wirkte unser Tisch angenehm privat.",
+        "name": "Amelia Stone",
+        "role": "Wochenendgast"
+      },
+      {
+        "quote": "Am Counter hatte der Abend einen perfekten Spannungsbogen. Küche und Service arbeiteten sichtbar auf einem sehr hohen Niveau.",
+        "name": "Noah Bennett",
+        "role": "Berater für Gastronomiekonzepte"
+      },
+      {
+        "quote": "Selten wirkt ein Restaurant gleichzeitig so zeitgemäß, warm und wirklich raffiniert.",
+        "name": "Layla Hart",
+        "role": "Gastgeberin für Private Events"
+      }
+    ]
+  },
+  "reservation": {
+    "eyebrow": "Reservierung",
+    "title": "Sichern Sie den Abend, bevor die gefragtesten Zeiten belegt sind.",
+    "description": "Teilen Sie uns mit, wann Sie kommen möchten und welchen Rahmen Sie sich wünschen. Die Live-Bestätigung wird als Nächstes angebunden, Ihre Wunschdaten können wir schon jetzt strukturiert erfassen.",
+    "visitLabel": "Adresse",
+    "callLabel": "Kurzfristig reservieren",
+    "hoursTitle": "Öffnungszeiten",
+    "hours": {
+      "tueThu": "Dienstag bis Donnerstag",
+      "friSat": "Freitag und Samstag",
+      "sun": "Sonntag"
+    },
+    "form": {
+      "eyebrow": "Reservierungsanfrage",
+      "title": "Erzählen Sie uns von Ihrem Tisch.",
+      "description": "Wählen Sie Zeit, Personenzahl und Ihre bevorzugte Platzierung. Das Formular ist bereits vollständig gestaltet und wird im nächsten Schritt mit der Live-Reservierung verbunden.",
+      "helper": "Für eine Reservierung am selben Abend rufen Sie uns bitte direkt an.",
+      "success": "Die Online-Bestätigung folgt in Kürze. Für heute Abend reservieren Sie bitte telefonisch.",
+      "submit": "Reservierungsdaten senden",
+      "fields": {
+        "name": {
+          "label": "Name",
+          "placeholder": "Ihr vollständiger Name"
+        },
+        "email": {
+          "label": "E-Mail",
+          "placeholder": "name@beispiel.de"
+        },
+        "phone": {
+          "label": "Telefon",
+          "placeholder": "+49 170 0000000"
+        },
+        "partySize": {
+          "label": "Personenzahl"
+        },
+        "date": {
+          "label": "Wunschtermin"
+        },
+        "time": {
+          "label": "Uhrzeit"
+        },
+        "seatingPreference": {
+          "label": "Sitzplatzwunsch"
+        },
+        "notes": {
+          "label": "Anmerkungen",
+          "placeholder": "Allergien, Anlass oder besondere Platzwünsche"
+        }
+      },
+      "options": {
+        "partySize": {
+          "2": "2 Personen",
+          "4": "4 Personen",
+          "6": "6 Personen",
+          "8plus": "8 oder mehr"
+        },
+        "time": {
+          "17:30": "17:30 Uhr",
+          "18:30": "18:30 Uhr",
+          "19:30": "19:30 Uhr",
+          "20:30": "20:30 Uhr",
+          "21:15": "21:15 Uhr"
+        },
+        "seatingPreference": {
+          "dining-room": "Gastraum",
+          "counter": "Chef's Counter",
+          "terrace": "Terrasse"
+        }
+      },
+      "validation": {
+        "name": "Bitte geben Sie Ihren Namen ein.",
+        "email": "Bitte geben Sie eine gueltige E-Mail-Adresse ein.",
+        "phone": "Bitte geben Sie eine gueltige Telefonnummer ein.",
+        "partySize": "Bitte waehlen Sie eine Personenzahl.",
+        "date": "Bitte waehlen Sie ein Datum.",
+        "time": "Bitte waehlen Sie eine Uhrzeit.",
+        "seatingPreference": "Bitte waehlen Sie einen Sitzplatzwunsch.",
+        "notesTooLong": "Bitte halten Sie Ihre Anmerkungen unter 400 Zeichen."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Modernes Fine Dining mit mediterraner Waerme.",
+    "socials": {
+      "instagram": "Instagram",
+      "maps": "Karte"
+    }
+  }
+}

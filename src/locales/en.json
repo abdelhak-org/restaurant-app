@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "title": "Saffron Table",
+    "description": "Reserve a table at Saffron Table, a contemporary fine dining restaurant shaped by fire, citrus, and warm hospitality."
+  },
+  "navigation": {
+    "menuToggle": "Open menu",
+    "mobileEyebrow": "Plan your evening",
+    "themeToggle": "Toggle light and dark mode",
+    "bookTable": "Book a Table",
+    "items": {
+      "home": "Home",
+      "menu": "Menu",
+      "story": "Story",
+      "gallery": "Gallery",
+      "testimonials": "Reviews",
+      "reservation": "Reservations"
+    }
+  },
+  "hero": {
+    "eyebrow": "Contemporary dining in downtown New York",
+    "title": "Luminous plates, modern hospitality, and a room designed for lingering well past the last course.",
+    "description": "Saffron Table brings open-fire cooking, bright Mediterranean notes, and a quietly cinematic dining room into one reservation-first experience.",
+    "primaryCta": "Reserve Tonight",
+    "secondaryCta": "View Featured Menu",
+    "badge": "Chef's Counter",
+    "imageAlt": "Signature plated dish at Saffron Table",
+    "highlights": [
+      {
+        "value": "12 seats",
+        "label": "at the chef's counter for guests who want the full tasting rhythm"
+      },
+      {
+        "value": "5:30 PM",
+        "label": "doors open Tuesday through Sunday for evening service"
+      },
+      {
+        "value": "Private events",
+        "label": "available for intimate celebrations and curated business dinners"
+      }
+    ],
+    "bookingCard": {
+      "eyebrow": "Reservations first",
+      "title": "Reserve the room at its best hour.",
+      "description": "Weeknight tables stay relaxed, Friday and Saturday seatings move quickly, and the counter is best secured in advance.",
+      "hoursLabel": "Preferred reservation window",
+      "hoursValue": "7:00 PM to 8:30 PM",
+      "contactLabel": "For same-night requests"
+    }
+  },
+  "menu": {
+    "eyebrow": "Seasonal highlights",
+    "title": "A menu built around quiet richness, live-fire depth, and a clean Mediterranean brightness.",
+    "description": "The kitchen changes often, but the point of view remains precise: layered flavor, graceful pacing, and a finish that feels lighter than the room looks.",
+    "categories": ["Shared starters", "Signature mains", "Dessert finish"],
+    "items": [
+      {
+        "name": "Sea Bass over Embers",
+        "description": "Charred fennel, preserved lemon butter, herb ash, and a saffron citrus gloss.",
+        "price": "$34"
+      },
+      {
+        "name": "Lamb Shoulder for Two",
+        "description": "Slow-roasted with smoked aubergine, grilled flatbread, and pomegranate jus.",
+        "price": "$58"
+      },
+      {
+        "name": "Black Garlic Risotto",
+        "description": "Carnaroli rice, roasted shiitake, aged pecorino, and olive leaf oil.",
+        "price": "$29"
+      },
+      {
+        "name": "Saffron Citrus Tart",
+        "description": "Silk custard, burnt honey glaze, pistachio crumb, and candied orange.",
+        "price": "$16"
+      }
+    ],
+    "sideNotes": [
+      {
+        "eyebrow": "Wine program",
+        "title": "Low-intervention bottles with structure and lift.",
+        "description": "The cellar leans Mediterranean and Alpine, balancing mineral whites, elegant reds, and a short pairing designed to echo the kitchen's spice and smoke."
+      },
+      {
+        "eyebrow": "Service style",
+        "title": "Attentive, calm, and timed for conversation.",
+        "description": "Courses land with intention, pacing stays comfortable, and the room is tuned for birthdays, date nights, and clients you actually want to impress."
+      }
+    ]
+  },
+  "story": {
+    "eyebrow": "The room",
+    "title": "Saffron Table was shaped to feel polished without ever becoming stiff.",
+    "paragraphs": [
+      "Low light, warm stone, brushed brass, and a quietly open kitchen make the room feel alive without pushing the volume. The idea is intimacy with energy, not spectacle.",
+      "Our menu moves between the Mediterranean coast and the modern city dinner: flame, herbs, citrus, texture, and the kind of hospitality that never needs to announce itself."
+    ],
+    "features": [
+      {
+        "title": "Counter seating",
+        "description": "A front-row view of the kitchen for guests who want the most immersive version of the evening."
+      },
+      {
+        "title": "Private dining",
+        "description": "A secluded arrangement for milestone dinners, intimate launches, and hosted tastings."
+      },
+      {
+        "title": "Seasonal sourcing",
+        "description": "Small producers, changing greens, and a menu that shifts with the market rather than a fixed calendar."
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Atmosphere",
+    "title": "An evening of plated detail, warm architecture, and a finish worth staying for.",
+    "description": "Every part of the experience is designed to feel tactile: the plate, the room, the light, the tempo, and the last glass on the table.",
+    "items": {
+      "plating": "Detailed plated dish with warm Mediterranean tones",
+      "interior": "The Saffron Table dining room with glowing pendant lights",
+      "dessert": "Signature dessert course at Saffron Table"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Guest impressions",
+    "title": "The nights people mention again the next morning.",
+    "items": [
+      {
+        "quote": "Everything felt exact without feeling rehearsed. The room was lively, but our table still felt private.",
+        "name": "Amelia Stone",
+        "role": "Weekend guest"
+      },
+      {
+        "quote": "The tasting at the counter had real momentum. You could feel the precision in both the kitchen and the floor team.",
+        "name": "Noah Bennett",
+        "role": "Hospitality consultant"
+      },
+      {
+        "quote": "It is the rare downtown restaurant that can feel current, warm, and genuinely refined all at once.",
+        "name": "Layla Hart",
+        "role": "Private event host"
+      }
+    ]
+  },
+  "reservation": {
+    "eyebrow": "Reserve your table",
+    "title": "Plan the evening before the room fills.",
+    "description": "Tell us when you would like to join us and how you want the evening to feel. Online booking confirmation is opening soon, but your preferred details can already be prepared.",
+    "visitLabel": "Visit us",
+    "callLabel": "Call for immediate assistance",
+    "hoursTitle": "Opening hours",
+    "hours": {
+      "tueThu": "Tuesday to Thursday",
+      "friSat": "Friday and Saturday",
+      "sun": "Sunday"
+    },
+    "form": {
+      "eyebrow": "Reservation request",
+      "title": "Tell us about your table.",
+      "description": "Share your preferred time, party size, and any seating details. This form is currently presentation-ready and will be connected to live booking next.",
+      "helper": "For tonight's table, please call the dining room directly.",
+      "success": "Online confirmation opens soon. Please call us to secure tonight's reservation.",
+      "submit": "Send Reservation Details",
+      "fields": {
+        "name": {
+          "label": "Name",
+          "placeholder": "Your full name"
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "you@example.com"
+        },
+        "phone": {
+          "label": "Phone",
+          "placeholder": "+1 (555) 000-0000"
+        },
+        "partySize": {
+          "label": "Party size"
+        },
+        "date": {
+          "label": "Preferred date"
+        },
+        "time": {
+          "label": "Preferred time"
+        },
+        "seatingPreference": {
+          "label": "Seating preference"
+        },
+        "notes": {
+          "label": "Notes",
+          "placeholder": "Allergies, occasion, or seating preferences"
+        }
+      },
+      "options": {
+        "partySize": {
+          "2": "2 guests",
+          "4": "4 guests",
+          "6": "6 guests",
+          "8plus": "8 or more"
+        },
+        "time": {
+          "17:30": "5:30 PM",
+          "18:30": "6:30 PM",
+          "19:30": "7:30 PM",
+          "20:30": "8:30 PM",
+          "21:15": "9:15 PM"
+        },
+        "seatingPreference": {
+          "dining-room": "Main dining room",
+          "counter": "Chef's counter",
+          "terrace": "Terrace seating"
+        }
+      },
+      "validation": {
+        "name": "Please enter your name.",
+        "email": "Please enter a valid email address.",
+        "phone": "Please enter a valid phone number.",
+        "partySize": "Please choose a party size.",
+        "date": "Please choose a date.",
+        "time": "Please choose a time.",
+        "seatingPreference": "Please choose a seating preference.",
+        "notesTooLong": "Please keep your notes under 400 characters."
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Contemporary fine dining with Mediterranean warmth.",
+    "socials": {
+      "instagram": "Instagram",
+      "maps": "Maps"
+    }
+  }
+}
