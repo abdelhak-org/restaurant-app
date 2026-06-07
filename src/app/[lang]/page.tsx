@@ -27,7 +27,7 @@ export default async function HomePage({
 
   return (
     <div className="relative min-h-screen overflow-x-clip bg-background text-foreground">
-      <div className="pointer-events-none absolute inset-x-0 top-0 h-[38rem] bg-[radial-gradient(circle_at_top,rgba(199,138,44,0.18),transparent_48%)]" />
+      <div className="pointer-events-none absolute inset-x-0 top-0 h-[38rem] bg-[radial-gradient(circle_at_top,color-mix(in_srgb,var(--color-primary)_18%,transparent),transparent_48%)]" />
       <div className="pointer-events-none absolute top-48 right-[-10rem] h-72 w-72 rounded-full bg-secondary/12 blur-3xl" />
       <div className="pointer-events-none absolute top-[42rem] left-[-8rem] h-64 w-64 rounded-full bg-accent/10 blur-3xl" />
 

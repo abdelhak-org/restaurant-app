@@ -80,10 +80,13 @@ export default async function LocaleLayout({
     <html
       lang={lang}
       suppressHydrationWarning
+      data-scroll-behavior="smooth"
       className={`${inter.variable} ${cormorant.variable} h-full scroll-smooth antialiased${isDark ? " dark" : ""}`}
     >
       <body className="min-h-full bg-background font-sans text-foreground">
-        <ThemeProvider>{children}</ThemeProvider>
+        <ThemeProvider initialTheme={isDark ? "dark" : "light"}>
+          {children}
+        </ThemeProvider>
       </body>
     </html>
   );
